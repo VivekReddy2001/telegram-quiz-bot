@@ -1,0 +1,22 @@
+{
+  "all_q": [
+    {
+      "q": "What is the capital of France? 🇫🇷",
+      "o": ["London", "Paris", "Berlin", "Madrid"],
+      "c": 1,
+      "e": "Paris is the capital and largest city of France 🗼"
+    },
+    {
+      "q": "What is 2+2? 🔢",
+      "o": ["3", "4", "5", "6"],
+      "c": 1,
+      "e": "Basic addition: 2+2=4 ✅"
+    },
+    {
+      "q": "Which programming language is known for its simplicity? 🐍",
+      "o": ["Java", "Python", "C++", "JavaScript"],
+      "c": 1,
+      "e": "Python is famous for its readable syntax and simplicity"
+    }
+  ]
+}
